@@ -518,6 +518,14 @@ footer .footer-block {
         margin-bottom: 1rem;
     }
 
+    .more-intro-2 .row .box .image h2{
+        font-size: 1.2rem;
+    }
+
+    .more-intro-2 .row .box .image button{
+        padding: .5rem 1rem;
+        font-size: .7rem;
+    }
 }
 
 /* MEDIA END */
